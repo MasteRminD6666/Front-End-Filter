@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+####  Used material Ui : is a collection of advanced React UI components for complex use cases.
+
+<img align="center" alt="mastermind" width="500px" src="./assets/project.PNG" />
+
+
+## Netlify Live Demo: 
+
 First, run the development server:
 
 ```bash
