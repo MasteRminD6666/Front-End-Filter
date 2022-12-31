@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Breadcrumbs tsx", "components/Filters/ToDate.jsx", "components/Filters/SearchLogger.jsx", "components/Filters/FromDate.jsx", "components/Filters/Filters.jsx", "components/Filters/EmployeeName.jsx", "components/Filters/ApplicationType.jsx", "components/Filters/ApplicationID.jsx", "components/Filters/ActionType.jsx", "components/Pagination/Pagination.jsx", "components/AppContext.jsx", "components/Breadcrumbs.jsx", "pages/index.jsx"],
+  "exclude": ["node_modules"]
+}
