@@ -35,7 +35,12 @@ export default function CustomSeparator() {
   return (
     <Breadcrumbs
       separator="›"
-      style={{ marginTop: "-10px", marginLeft: "10px", marginBottom: "10px", width: "100%"}}
+      style={{
+        marginTop: "-10px",
+        marginLeft: "10px",
+        marginBottom: "10px",
+        width: "100%",
+      }}
       aria-label="breadcrumb"
     >
       {breadcrumbs}

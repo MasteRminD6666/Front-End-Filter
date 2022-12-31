@@ -7,7 +7,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <img align="center" alt="mastermind" width="500px" src="./assets/project.PNG" />
 
 
-## Netlify Live Demo: 
+## Netlify Live Demo:  https://resonant-pavlova-f9d8c2.netlify.app/
+
+
+
+##### Cases that i didn't had time to handle it 
+
+* Checking if the FromDate is less than the to Date
+* Filters  using Query search 
+* Error Validations 
+* Test Unit 
+
+
+#### My feedBack 
+i had an emergency situation  i only had 7 hours to work =( unfortunately 
+The task is really well designed 
 
 First, run the development server:
 
